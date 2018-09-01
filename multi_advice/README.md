@@ -1,7 +1,4 @@
-# Berkeley-AI-Pacman-Projects
+# Pacman-Trained-Multiple-Advice
 
-My solutions for the UC Berkeley CS188 Intro to AI Pacman Projects. The completed projects include:
-- Project 1: Search
-- Project 2: Multi-Agent Search
-- Project 3: Reinforcement Learning (With an extra NN class)
+Advices from multiple experts are incorporated while training the pacman by Approximate Q-learning using weights given to experts which are also learned as 2-layered Neural Network.
 # Advise
