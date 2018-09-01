@@ -1,6 +1,3 @@
-# Berkeley-AI-Pacman-Projects
+# Pacman-Trained-without-Advice
+The domain and idea of training pacman is selected from UC Berkeley's introductory artificial intelligence course, CS 188. But the project in that course was trained without advice only. In this project pacman is trained with single advice or multiple advice from experts also for early convergernce in the later part.
 
-My solutions for the UC Berkeley CS188 Intro to AI Pacman Projects. The completed projects include:
-- Project 1: Search
-- Project 2: Multi-Agent Search
-- Project 3: Reinforcement Learning (With an extra NN class)
